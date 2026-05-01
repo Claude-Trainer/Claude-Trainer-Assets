@@ -1,0 +1,5 @@
+# >>> claude-obsidian vault local state >>>
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+# <<< claude-obsidian vault local state <<<
